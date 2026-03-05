@@ -1,1 +1,2 @@
 Line1: Initial content
+String2: Second string
